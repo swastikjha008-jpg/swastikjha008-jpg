@@ -1,73 +1,56 @@
-# Hey, I'm Swastik 👋  
+🌟 Hey, I'm Swastik!
 
-💻 A student exploring the world of coding and creating cool stuff along the way.  
-🚀 Currently learning and building projects in **C++**, but always curious to try new things.  
-🎯 My goal: improve every day — one project, one bug fix at a time.  
-🧩 I love solving problems, experimenting with ideas, and watching them come to life through code.  
-☕ When I’m not coding, I’m probably thinking about my next project.  
+A passionate C++ developer and student, steadily building real-world projects and improving one step at a time.
+Focused on mastering C++ fundamentals, DSA, clean coding, and Git/GitHub while building a portfolio that actually shows my growth.
 
----
+🚀 What I'm Working On
 
-### 🧠 Languages & Tools  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+Writing clean and structured C++ applications
+Strengthening fundamentals through DSA
+Uploading regular projects on GitHub
+Preparing for future roles in Software Development / DevOps
 
----
+🛠️ Tech I Work With
+C++ (Core language)
+File handling, OOP, arrays, pointers
+VS Code + Code Runner
 
-### ⚡ Projects  
-🎮 [Number Guessing Game (C++)](https://github.com/swastikjha008-jpg/number-guessing-game-cpp)  
-🧮 [Simple Calculator (C++)](https://github.com/swastikjha008-jpg/Simple-Calculator-Cpp)
+Git & GitHub version control
+Learning: DSA, Memory management
 
----
+📦 Projects I’ve Completed
+📚 Digital Library Management System
+Manage books, issue/purchase system, status tracking, auto-logging into files.
 
-### 📊 GitHub Stats  
-![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastikjha008-jpg&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikjha008-jpg&layout=compact&theme=tokyonight)
+👨‍💼 Employee Management System
+CRUD program with file storage — add, search, delete, display.
 
----
+🏦 Bank Management System
+PIN login, deposit/withdraw, balance check, transaction history saved to file.
 
-### 📸 Connect with me  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swastik_jha7?igsh=YTF5NDQzY3RmcWhh)
+🧮 Basic Calculator
+Simple arithmetic calculator built in C++.
 
----
+🎯 Number Guessing Game
+Fun random number guessing logic.
 
-### 👨‍💻 “Keep learning, keep building, and never stop experimenting.”
-# Hey, I'm Swastik 👋  
+🎓 Student Management System (Coming Soon)
+Marks, grades, search, attendance, full CRUD — portfolio level.
 
-💻 A student exploring the world of coding and creating cool stuff along the way.  
-🚀 Currently learning and building projects in **C++**, but always curious to try new things.  
-🎯 My goal: improve every day — one project, one bug fix at a time.  
-🧩 I love solving problems, experimenting with ideas, and watching them come to life through code.  
-☕ When I’m not coding, I’m probably thinking about my next project.  
+🔥 My Goal
+To grow from a beginner into a job-ready developer, build an impressive GitHub portfolio, and eventually crack roles in top companies — with consistency and honest effort.
 
----
+💡 My Philosophy
+Improve 1% every day.
+Small consistent steps → Big results.
 
-### 🧠 Languages & Tools  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🔗 My Links
 
----
+GitHub:
+👉 https://github.com/swastikjha008-jpg
 
-### ⚡ Projects  
-🎮 [Number Guessing Game (C++)](https://github.com/swastikjha008-jpg/number-guessing-game-cpp)  
-🧮 [Simple Calculator (C++)](https://github.com/swastikjha008-jpg/Simple-Calculator-Cpp)
+Portfolio (Coming Soon)
+👉 (you can add later)
 
----
-
-### 📊 GitHub Stats  
-![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastikjha008-jpg&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikjha008-jpg&layout=compact&theme=tokyonight)
-
----
-
-### 📸 Connect with me  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swastik_jha7?igsh=YTF5NDQzY3RmcWhh)
-
----
-
-### 👨‍💻 “Keep learning, keep building, and never stop experimenting.”
-
+🤝 Let’s Connect (Soon)
+As I grow, I’ll add more polished projects, start open-source contributions, and upgrade my dev profile step by step.
