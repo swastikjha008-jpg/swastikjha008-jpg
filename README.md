@@ -2,6 +2,7 @@
 
 A passionate C++ developer and student, steadily building real-world projects and improving one step at a time.
 Focused on mastering C++ fundamentals, DSA, clean coding, and Git/GitHub while building a portfolio that actually shows my growth.
+C++ Developer | Building real-world projects | Learning DSA
 
 🚀 What I'm Working On
 
