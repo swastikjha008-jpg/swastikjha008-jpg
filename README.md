@@ -35,7 +35,7 @@ Simple arithmetic calculator built in C++.
 🎯 Number Guessing Game
 Fun random number guessing logic.
 
-🎓 Student Management System (Coming Soon)
+🎓 Student Management System
 Marks, grades, search, attendance, full CRUD — portfolio level.
 
 🔥 My Goal
