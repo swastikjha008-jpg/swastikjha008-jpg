@@ -46,12 +46,8 @@ Improve 1% every day.
 Small consistent steps → Big results.
 
 🔗 My Links
-
-GitHub:
-👉 https://github.com/swastikjha008-jpg
-
-Portfolio (Coming Soon)
-👉 (you can add later)
+Email:
+👉 swastikjha008@gmail.com
 
 🤝 Let’s Connect (Soon)
 As I grow, I’ll add more polished projects, start open-source contributions, and upgrade my dev profile step by step.
