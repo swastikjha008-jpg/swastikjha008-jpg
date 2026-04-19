@@ -1,53 +1,49 @@
-🌟 Hey, I'm Swastik!
+🚀 Swastik Jha
 
-A passionate C++ developer and student, steadily building real-world projects and improving one step at a time.
-Focused on mastering C++ fundamentals, DSA, clean coding, and Git/GitHub while building a portfolio that actually shows my growth.
-C++ Developer | Building real-world projects | Learning DSA
+💻 Aspiring Full-Stack Developer
+⚡ Currently building in Web Development, DevOps & Backend Systems
+🎯 Goal: Become a production-level Full Stack Engineer
 
-🚀 What I'm Working On
+🧠 What I’m Doing Right Now
+📚 Learning Full Stack Development (Frontend + Backend)
+⚙️ Exploring DevOps & deployment workflows
+🧩 Building real-world projects from my cohort
+🛠️ Tech Stack
 
-Writing clean and structured C++ applications
-Strengthening fundamentals through DSA
-Uploading regular projects on GitHub
-Preparing for future roles in Software Development / DevOps
+Languages & Core
 
-🛠️ Tech I Work With
-C++ (Core language)
-File handling, OOP, arrays, pointers
-VS Code + Code Runner
+💡 JavaScript (Learning)
+⚡ C++ (Basics + Problem Solving)
 
-Git & GitHub version control
-Learning: DSA, Memory management
+Frontend
 
-📦 Projects I’ve Completed
-📚 Digital Library Management System
-Manage books, issue/purchase system, status tracking, auto-logging into files.
+🌐 HTML, CSS
+⚛️ React (Upcoming / Learning)
 
-👨‍💼 Employee Management System
-CRUD program with file storage — add, search, delete, display.
+Backend
 
-🏦 Bank Management System
-PIN login, deposit/withdraw, balance check, transaction history saved to file.
+🧠 Node.js, Express (Learning phase)
 
-🧮 Basic Calculator
-Simple arithmetic calculator built in C++.
+Tools & DevOps
 
-🎯 Number Guessing Game
-Fun random number guessing logic.
+🐙 Git & GitHub
+🧑‍💻 VS Code
+🚀 Deployment (Coming soon)
+📌 Current Focus
+🔥 Building strong frontend + backend fundamentals
+📦 Creating clean, real-world projects
+📈 Improving consistency & coding discipline
+📂 Projects (Will be updated regularly)
+🧮 Calculator App (C++)
+🎯 Number Guessing Game (C++)
+🌐 Upcoming: Full Stack Web Projects
+📊 GitHub Goals
+✅ Build 5+ solid projects
+✅ Push code consistently
+✅ Make production-ready apps
+✅ Learn deployment & scaling basics
+📫 Connect With Me
+📧 Email: (add your email here)
+💼 LinkedIn: (add later if you want)
 
-🎓 Student Management System
-Marks, grades, search, attendance, full CRUD — portfolio level.
-
-🔥 My Goal
-To grow from a beginner into a job-ready developer, build an impressive GitHub portfolio, and eventually crack roles in top companies — with consistency and honest effort.
-
-💡 My Philosophy
-Improve 1% every day.
-Small consistent steps → Big results.
-
-🔗 My Links
-Email:
-👉 swastikjha008@gmail.com
-
-🤝 Let’s Connect (Soon)
-As I grow, I’ll add more polished projects, start open-source contributions, and upgrade my dev profile step by step.
+⚡ "Consistency beats motivation."
