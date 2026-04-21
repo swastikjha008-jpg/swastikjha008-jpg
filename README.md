@@ -43,7 +43,6 @@ Tools & DevOps
 ✅ Make production-ready apps
 ✅ Learn deployment & scaling basics
 📫 Connect With Me
-📧 Email: (add your email here)
-💼 LinkedIn: (add later if you want)
+📧 Email: (swastikjha008@gmail.com)
 
 ⚡ "Consistency beats motivation."
