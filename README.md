@@ -1,78 +1,76 @@
-<h1 align="center">Hi, I'm Swastik Jha 👋</h1>
+<div align="center">
 
-<p align="center">
-  Aspiring Full-Stack Developer from India
-</p>
+# Hi, I'm Swastik Jha 👋
 
-<p align="center">
-  <a href="mailto:swastikjha008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-swastikjha008%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/swastik_jha7">
-    <img src="https://img.shields.io/badge/Instagram-@swastik__jha7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+**Aspiring Full-Stack Developer from India 🇮🇳**
+
+*Learning by shipping projects — one commit at a time*
+
+[![Email](https://img.shields.io/badge/Gmail-swastikjha008%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swastikjha008@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40swastik__jha7-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/swastik_jha7)
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Aspiring **Full-Stack Developer**
-- Building projects with **C++**, **JavaScript**, and **React**
-- Currently learning **Node.js, Express.js, MongoDB**
-- Improving **DSA**, problem-solving, and project building
-- Turning small ideas into working real-world projects
+- 🎓 Student from **Lucknow, India** building real projects
+- 💻 Started with **C++** (2025) → now building full web apps
+- ⚛️ Currently crafting UIs with **React + Vite + Tailwind**
+- 🔭 Working towards: **Node.js → Express → MongoDB**
+- 🚀 Everything I build gets **deployed and shipped**
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<div align="center">
+
+### 💬 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Tools
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### Currently Learning
+### 📚 Currently Learning
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## Current Focus
-
-- Building stronger **React projects**
-- Learning **backend development**
-- Making my GitHub more professional
-- Practicing **clean code** and **project structure**
+</div>
 
 ---
 
-## GitHub Goals
+## 🎯 Goals
 
-- Build useful and real projects
-- Learn consistently every day
-- Improve development skills step by step
-- Grow into a confident **full-stack developer**
-
----
-
-## Connect With Me
-
-- **Email:** swastikjha008@gmail.com
-- **Instagram:** [@swastik_jha7](https://instagram.com/swastik_jha7)
+- [x] Learn HTML, CSS, JavaScript
+- [x] Build and deploy React projects
+- [x] Learn Git and GitHub properly
+- [x] Deploy projects with Render
+- [x] Build first Node.js + Express API
+- [x] Connect backend to MongoDB
+- [ ] Master Tailwind CSS
+- [ ] Build first full-stack project
+- [ ] Set up LinkedIn profile
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile
-</p>
+<div align="center">
+
+**Thanks for visiting my profile! 🙌**
+<br/>
+*If you like what you see, feel free to ⭐ a repo*
+
+</div>
