@@ -7,8 +7,6 @@
 *Learning by shipping projects — one commit at a time*
 
 [![Email](https://img.shields.io/badge/Gmail-swastikjha008%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swastikjha008@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40swastik__jha7-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/swastik_jha7)
-
 </div>
 
 ---
