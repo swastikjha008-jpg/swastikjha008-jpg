@@ -69,6 +69,5 @@
 
 **Thanks for visiting my profile! 🙌**
 <br/>
-*If you like what you see, feel free to ⭐ a repo*
 
 </div>
