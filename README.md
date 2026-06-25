@@ -17,7 +17,7 @@
 - 🎓 Student from **Lucknow, India** building real projects
 - 💻 Started with **C++** (2025) → now building full-stack web apps
 - ⚛️ Comfortable with **React + Vite + Tailwind** — built and deployed real UIs
-- 🔌 Currently mastering **WebSockets** — building a real-time chat app
+- 🔌 Currently learning PostgreSQL + Prisma
 - 🛤️ Journey: `C++` → `JS` → `React` → `Node/Express` → `MongoDB` → `WebSockets`
 - 🚀 Everything I build gets **deployed and shipped**
 
@@ -80,7 +80,7 @@
 - [x]  Master WebSockets — build a real-time chat app
 
 **Up Next 🗺️**
-- [ ] PostgreSQL + Prisma ORM
+
 - [ ] DevOps — Docker, CI/CD, cloud deployments
 - [ ] Blockchain development
 - [ ] Set up LinkedIn profile
