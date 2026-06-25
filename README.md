@@ -77,7 +77,7 @@
 
 - [x] Master Tailwind CSS fully
 - [x] Build first complete full-stack project
-- [ ]  Master WebSockets — build a real-time chat app
+- [x]  Master WebSockets — build a real-time chat app
 
 **Up Next 🗺️**
 - [ ] PostgreSQL + Prisma ORM
