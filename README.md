@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Swastik Jha 👋
+# Swastik Jha
 
-**Full-Stack Developer in Progress from India 🇮🇳**
+**Full-Stack Developer · Lucknow, India 🇮🇳**
 
-*Learning by shipping projects — one commit at a time*
+*Shipping real projects while learning — deployed apps, not just tutorials*
 
 [![Email](https://img.shields.io/badge/Gmail-swastikjha008%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swastikjha008@gmail.com)
 
@@ -17,8 +17,8 @@
 - 🎓 Student from **Lucknow, India** building real projects
 - 💻 Started with **C++** (2025) → now building full-stack web apps
 - ⚛️ Comfortable with **React + Vite + Tailwind** — built and deployed real UIs
-- 🔌 Currently learning PostgreSQL + Prisma
-- 🛤️ Journey: `C++` → `JS` → `React` → `Node/Express` → `MongoDB` → `WebSockets`
+- 🔌 Currently learning **PostgreSQL + Prisma**
+- 🛤️ Journey: `C++` → `JS` → `React` → `Node/Express` → `MongoDB` → `WebSockets` → `PostgreSQL` → `Prisma`
 - 🚀 Everything I build gets **deployed and shipped**
 
 ---
@@ -28,31 +28,28 @@
 <div align="center">
 
 ### 💬 Languages
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend & Databases
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### 🔌 Currently Mastering
-
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🔧 Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -74,13 +71,13 @@
 - [x] Deploy projects with Render
 
 **In Progress 🔥**
-
 - [x] Master Tailwind CSS fully
 - [x] Build first complete full-stack project
-- [x]  Master WebSockets — build a real-time chat app
+- [x] Master WebSockets — build a real-time chat app
+- [x] Pick up TypeScript
+- [ ] PostgreSQL + Prisma — relational DBs & type-safe queries
 
 **Up Next 🗺️**
-
 - [ ] DevOps — Docker, CI/CD, cloud deployments
 - [ ] Blockchain development
 - [ ] Set up LinkedIn profile
@@ -89,6 +86,6 @@
 
 <div align="center">
 
-**Thanks for visiting my profile! 🙌**
+**Thanks for visiting! 🙌**
 
 </div>
