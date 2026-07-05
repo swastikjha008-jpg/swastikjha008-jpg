@@ -15,11 +15,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 Student from **Lucknow, India** building real projects
-- 💻 Started with **C++** (2025) → now building full-stack web apps
-- ⚛️ Comfortable with **React + Vite + Tailwind** — built and deployed real UIs
-- 🔌 Currently learning **PostgreSQL + Prisma**
-- 🛤️ Journey: `C++` → `JS` → `React` → `Node/Express` → `MongoDB` → `WebSockets` → `PostgreSQL` → `Prisma`
-- 🚀 Everything I build gets **deployed and shipped**
+- 💻 Started with **C++** (2025), then taught myself the rest by actually shipping things
+- ⚛️ Frontend to backend, comfortable across **React, Next.js, TypeScript, Node/Express, MongoDB & PostgreSQL**
+- 🧩 Prefer learning by building — every new concept turns into a deployed project, not just notes
+- 🔌 Currently deep in **Prisma** and getting ready to move into DevOps
+- 🚀 Every project gets **deployed and shipped**, not left running on localhost
 
 ---
 
@@ -30,11 +30,13 @@
 ### 💬 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -45,9 +47,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🔌 Currently Mastering
+### 🔌 Currently Exploring
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,25 +64,14 @@
 
 ## 🎯 Goals
 
-**Completed ✅**
-- [x] Learn HTML, CSS, JavaScript
-- [x] Build and deploy React projects
-- [x] Learn Git & GitHub properly
-- [x] Build first Node.js + Express API
-- [x] Connect backend to MongoDB
-- [x] Deploy projects with Render
+**Where I'm standing now**
+Full-stack, TypeScript included — React/Next.js on the frontend, Node/Express on the backend, and MongoDB + PostgreSQL both under my belt.
 
-**In Progress 🔥**
-- [x] Master Tailwind CSS fully
-- [x] Build first complete full-stack project
-- [x] Master WebSockets — build a real-time chat app
-- [x] Pick up TypeScript
-- [ ] PostgreSQL + Prisma — relational DBs & type-safe queries
+**Where I'm headed next**
+Moving into **DevOps** — Docker, CI/CD, and cloud deployments — so I can own a project end-to-end, from code to the server it runs on.
 
-**Up Next 🗺️**
-- [ ] DevOps — Docker, CI/CD, cloud deployments
-- [ ] Blockchain development
-- [ ] Set up LinkedIn profile
+**The actual goal**
+Not a specific tech or a title — just to become a genuinely good developer. Someone who can pick up whatever a project needs, ship it properly, and keep getting better at the craft.
 
 ---
 
