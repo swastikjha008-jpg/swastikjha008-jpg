@@ -51,14 +51,18 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Observability
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### 🔬 Currently Exploring
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### 🔧 Tools
 
@@ -76,15 +80,21 @@
 
 ### 📍 Where I Am Today
 
-I'm a full-stack developer focused on building modern web applications with **React, Next.js, TypeScript, Node.js, Express, WebSockets, MongoDB, PostgreSQL, and Prisma**. I enjoy taking ideas from concept to deployment and continuously improving through hands-on projects.
+I'm a Full-Stack Developer focused on building and shipping modern web applications. My current stack includes React, Next.js, TypeScript, Node.js, Express, WebSockets, MongoDB, PostgreSQL, and Prisma.
+
+I'm now moving deeper into DevOps and Cloud Engineering, working with Docker, AWS, Prometheus, Grafana, and Serverless technologies.
+
+I'm learning to look beyond just writing code — understanding how applications are containerized, deployed, monitored, scaled, and maintained in production.
+
+**Build → Deploy → Monitor → Improve. 🚀**
 
 ### 🚀 Where I'm Going
 
-I'm currently diving deeper into **DevOps**, learning **AWS, Docker, Kubernetes, CI/CD, and cloud infrastructure** to understand the complete software development lifecycle—from writing code to deploying, scaling, and maintaining applications in production.
+I'm currently diving deeper into **DevOps**, learning **AWS, Docker, Kubernetes, CI/CD, and cloud infrastructure** to understand the complete software development lifecycle—from writing code to deploying, scaling, and maintaining applications in production. Once I have a strong handle on DevOps, my next frontier is **blockchain** — understanding how decentralized systems, smart contracts, and distributed infrastructure actually work.
 
 ### 💡 Long-Term Goal
 
-My goal isn't to master one framework or chase a particular job title. I want to become a versatile software engineer who can quickly adapt to new technologies, solve real-world problems, and build reliable, scalable products that people enjoy using.
+My long-term goal is to become a **Web3 Developer** — someone who can build decentralized applications that are as reliable, scalable, and well-engineered as the traditional systems I build today. I want to combine the discipline of full-stack development and DevOps with the emerging world of blockchain, so I can ship products that aren't just functional, but trustworthy, transparent, and built for a decentralized future. I'm not chasing a title — I'm building the foundation, one layer at a time, to get there.
 
 ---
 
@@ -92,6 +102,8 @@ My goal isn't to master one framework or chase a particular job title. I want to
 
 ### 🚀 Always building. Always learning.
 
-**Thanks for stopping by!**
+**Build → Break → Debug → Deploy → Monitor → Improve**
+
+**Thanks for stopping by! 👋**
 
 </div>
