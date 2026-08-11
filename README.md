@@ -86,8 +86,6 @@ I'm now moving deeper into DevOps and Cloud Engineering, working with Docker, AW
 
 I'm learning to look beyond just writing code — understanding how applications are containerized, deployed, monitored, scaled, and maintained in production.
 
-**Build → Deploy → Monitor → Improve. 🚀**
-
 ### 🚀 Where I'm Going
 
 I'm currently diving deeper into **DevOps**, learning **AWS, Docker, Kubernetes, CI/CD, and cloud infrastructure** to understand the complete software development lifecycle—from writing code to deploying, scaling, and maintaining applications in production. Once I have a strong handle on DevOps, my next frontier is **blockchain** — understanding how decentralized systems, smart contracts, and distributed infrastructure actually work.
