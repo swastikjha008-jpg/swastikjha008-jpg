@@ -19,6 +19,7 @@
 - ⚛️ Comfortable building full-stack applications using **React, Next.js, TypeScript, Node.js, Express, WebSockets, MongoDB, PostgreSQL, and Prisma**
 - 🚀 I learn by building—every concept I study turns into a real project instead of staying in my notes
 - ☁️ Currently expanding into **AWS, Docker, Kubernetes, and DevOps**
+- 🐧 Daily-drive **Linux** — comfortable in the terminal and it's where most of my dev work actually happens
 - 🌍 I enjoy deploying my applications so they're available for anyone to use, not just running on localhost
 
 ---
@@ -66,6 +67,7 @@
 
 ### 🔧 Tools
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
