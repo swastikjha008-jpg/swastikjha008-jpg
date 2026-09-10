@@ -1,12 +1,18 @@
 <div align="center">
 
-# Swastik Jha
+# 👋 Hey, I'm Swastik Jha
 
-**Full-Stack Developer · Lucknow, India 🇮🇳**
+### Full-Stack Developer · DevOps · Web3
 
-*Building real products, learning by shipping, and growing into DevOps.*
+**Building real products, exploring new technologies, and moving deeper into Web3.**
 
-[![Email](https://img.shields.io/badge/Gmail-swastikjha008%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:swastikjha008@gmail.com)
+🇮🇳 Lucknow, India
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-241F2F?style=for-the-badge&logo=github&logoColor=FFD83D)](https://github.com/swastikjha008-jpg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-241F2F?style=for-the-badge&logo=linkedin&logoColor=FFD83D)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-241F2F?style=for-the-badge&logo=gmail&logoColor=FF7A2F)](mailto:swastikjha008@gmail.com)
 
 </div>
 
@@ -14,13 +20,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Student from **Lucknow, India** passionate about software development
-- 💻 Started my programming journey with **C++** in 2025 and quickly moved into modern web development
-- ⚛️ Comfortable building full-stack applications using **React, Next.js, TypeScript, Node.js, Express, WebSockets, MongoDB, PostgreSQL, and Prisma**
-- 🚀 I learn by building—every concept I study turns into a real project instead of staying in my notes
-- ☁️ Currently expanding into **AWS, Docker, Kubernetes, and DevOps**
-- 🐧 Daily-drive **Linux** — comfortable in the terminal and it's where most of my dev work actually happens
-- 🌍 I enjoy deploying my applications so they're available for anyone to use, not just running on localhost
+I'm a **Full-Stack Developer** who enjoys building real applications and understanding what happens beyond the code.
+
+I started my programming journey with **C++ in 2025**, then moved into modern web development, backend systems, real-time applications, and infrastructure.
+
+I've now completed my **DevOps learning phase** and started my next chapter:
+
+## ⛓️ Web3 & Blockchain
+
+I enjoy working with **Linux, backend systems, cloud infrastructure, modern web technologies, and now decentralized systems.**
 
 ---
 
@@ -28,82 +36,127 @@
 
 <div align="center">
 
-### 💬 Languages
+### 💻 Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://img.shields.io/badge/C++-7B61FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD83D?style=for-the-badge&logo=javascript&logoColor=111111"/>
+<img src="https://img.shields.io/badge/TypeScript-4DA3FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-4DA3FF?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br><br>
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://img.shields.io/badge/React-242424?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-242424?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Vite-7B61FF?style=for-the-badge&logo=vite&logoColor=FFD83D"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-19C7E6?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-FF8A3D?style=for-the-badge&logoColor=white"/>
+
+<br><br>
 
 ### ⚙️ Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-32C766?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-242424?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/WebSockets-7B61FF?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-32C766?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4D9EFF?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-6C63FF?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-### ☁️ Cloud, DevOps & Observability
+<br><br>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+### ☁️ DevOps & Cloud
 
-### 🔬 Currently Exploring
+<img src="https://img.shields.io/badge/Linux-FFD83D?style=for-the-badge&logo=linux&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Docker-2496FF?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-4D8DFF?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9A3D?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-FF8A3D?style=for-the-badge&logo=grafana&logoColor=white"/>
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+<br><br>
+
+### ⛓️ Web3 — Currently Exploring
+
+<img src="https://img.shields.io/badge/Blockchain-7B61FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-8A6CFF?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-5C5CFF?style=for-the-badge&logo=solidity&logoColor=white"/>
+
+<br><br>
 
 ### 🔧 Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=FFD83D"/>
+<img src="https://img.shields.io/badge/Postman-FF7A3D?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-2D9CFF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-242424?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111"/>
 
 </div>
 
 ---
 
-# 🎯 Goals
+# 📍 Where I Am
 
-### 📍 Where I Am Today
+### ✅ Full-Stack
 
-I'm a Full-Stack Developer focused on building and shipping modern web applications. My current stack includes React, Next.js, TypeScript, Node.js, Express, WebSockets, MongoDB, PostgreSQL, and Prisma.
+**React · Next.js · TypeScript · Node.js · Express · PostgreSQL · MongoDB**
 
-I'm now moving deeper into DevOps and Cloud Engineering, working with Docker, AWS, Prometheus, Grafana, and Serverless technologies.
+Building modern web applications across the frontend and backend.
 
-I'm learning to look beyond just writing code — understanding how applications are containerized, deployed, monitored, scaled, and maintained in production.
+### ✅ DevOps
 
-### 🚀 Where I'm Going
+**Linux · Docker · Kubernetes · AWS · Prometheus · Grafana**
 
-I'm currently diving deeper into **DevOps**, learning **AWS, Docker, Kubernetes, CI/CD, and cloud infrastructure** to understand the complete software development lifecycle—from writing code to deploying, scaling, and maintaining applications in production. Once I have a strong handle on DevOps, my next frontier is **blockchain** — understanding how decentralized systems, smart contracts, and distributed infrastructure actually work.
+Completed my core DevOps learning phase and built a stronger understanding of deployment, infrastructure, containers, and observability.
 
-### 💡 Long-Term Goal
+### 🚀 Web3
 
-My long-term goal is to become a **Web3 Developer** — someone who can build decentralized applications that are as reliable, scalable, and well-engineered as the traditional systems I build today. I want to combine the discipline of full-stack development and DevOps with the emerging world of blockchain, so I can ship products that aren't just functional, but trustworthy, transparent, and built for a decentralized future. I'm not chasing a title — I'm building the foundation, one layer at a time, to get there.
+**Blockchain · Ethereum · Solidity · Smart Contracts**
+
+Just getting started with decentralized systems and blockchain development.
+
+I've begun with the fundamentals, including reading the **Bitcoin whitepaper**, and I'm now moving toward Ethereum and smart contracts.
+
+---
+
+# 🎯 Final Goal
+
+Become a **Web3 Developer** who can work across the entire stack.
+
+<div align="center">
+
+### Frontend
+↓
+### Backend
+↓
+### DevOps
+↓
+### Blockchain
+↓
+## ⛓️ Production-Ready Web3 Applications
+
+</div>
+
+I want to combine everything I've learned so far to build **reliable, scalable, and well-engineered decentralized applications.**
 
 ---
 
 <div align="center">
 
-### 🚀 Always building. Always learning.
+## 🚀 Always Building. Always Learning.
 
-**Build → Break → Debug → Deploy → Monitor → Improve**
+### Build → Break → Debug → Deploy → Monitor → Improve
 
-**Thanks for stopping by! 👋**
+<br>
+
+🟣 **Full-Stack** &nbsp; • &nbsp; 🟡 **DevOps** &nbsp; • &nbsp; 🟠 **Web3**
+
+<br><br>
+
+**The journey is just getting started.**
 
 </div>
