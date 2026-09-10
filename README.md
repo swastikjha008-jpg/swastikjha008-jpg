@@ -36,7 +36,7 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 
 <div align="center">
 
-### 💻 Languages
+<h2>💻 Languages</h2>
 
 <img src="https://img.shields.io/badge/C++-7B61FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFD83D?style=for-the-badge&logo=javascript&logoColor=111111"/>
@@ -46,7 +46,7 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 
 <br><br>
 
-### 🎨 Frontend
+<h2>🎨 Frontend</h2>
 
 <img src="https://img.shields.io/badge/React-242424?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-242424?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
@@ -56,18 +56,18 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 
 <br><br>
 
-### ⚙️ Backend & Databases
+<h2>⚙️ Backend & Databases</h2>
 
 <img src="https://img.shields.io/badge/Node.js-32C766?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-242424?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/WebSockets-7B61FF?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/MongoDB-32C766?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-7ED957?style=for-the-badge&logo=mongodb&logoColor=111111"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4D9EFF?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-6C63FF?style=for-the-badge&logo=prisma&logoColor=white"/>
 
 <br><br>
 
-### ☁️ DevOps & Cloud
+<h2>☁️ DevOps & Cloud</h2>
 
 <img src="https://img.shields.io/badge/Linux-FFD83D?style=for-the-badge&logo=linux&logoColor=111111"/>
 <img src="https://img.shields.io/badge/Docker-2496FF?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -78,15 +78,16 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 
 <br><br>
 
-### ⛓️ Web3 — Currently Exploring
+<h2>⛓️ Web3 — Currently Exploring</h2>
 
 <img src="https://img.shields.io/badge/Blockchain-7B61FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-8A6CFF?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-7B61FF?style=for-the-badge&logo=solana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-5C5CFF?style=for-the-badge&logo=solidity&logoColor=white"/>
 
 <br><br>
 
-### 🔧 Tools
+<h2>🔧 Tools</h2>
 
 <img src="https://img.shields.io/badge/Git-FF6B35?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=FFD83D"/>
@@ -115,33 +116,40 @@ Completed my core DevOps learning phase and built a stronger understanding of de
 
 ### 🚀 Web3
 
-**Blockchain · Ethereum · Solidity · Smart Contracts**
+**Blockchain · Ethereum · Solana · Solidity · Smart Contracts**
 
 Just getting started with decentralized systems and blockchain development.
 
-I've begun with the fundamentals, including reading the **Bitcoin whitepaper**, and I'm now moving toward Ethereum and smart contracts.
+I've begun with the fundamentals, including reading the **Bitcoin whitepaper**, and I'm now moving toward Ethereum, Solana, and smart contracts.
 
 ---
 
 # 🎯 Final Goal
 
-Become a **Web3 Developer** who can work across the entire stack.
+### I want to become a **reliable Web3 Developer**.
 
 <div align="center">
 
-### Frontend
-↓
-### Backend
-↓
-### DevOps
-↓
-### Blockchain
-↓
-## ⛓️ Production-Ready Web3 Applications
+<table>
+<tr>
+<td align="center"><strong>Frontend</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>Backend</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>DevOps</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>Blockchain</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>⛓️ Reliable Web3 Developer</strong></td>
+</tr>
+</table>
+
+<br>
+
+I want to combine everything I've learned so far to build
+**reliable, scalable, and well-engineered decentralized applications.**
 
 </div>
-
-I want to combine everything I've learned so far to build **reliable, scalable, and well-engineered decentralized applications.**
 
 ---
 
