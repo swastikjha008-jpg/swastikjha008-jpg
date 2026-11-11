@@ -24,11 +24,11 @@ I'm a **Full-Stack Developer** who enjoys building real applications and underst
 
 I started my programming journey with **C++ in 2025**, then moved into modern web development, backend systems, real-time applications, and infrastructure.
 
-I've now completed my **DevOps learning phase** and started my next chapter:
+I've completed my **DevOps learning phase** and I'm now deep into my next chapter:
 
 ## ⛓️ Web3 & Blockchain
 
-I enjoy working with **Linux, backend systems, cloud infrastructure, modern web technologies, and now decentralized systems.**
+Learning **Ethereum, Solidity, and Solana**, writing smart contracts, and exploring **Rust** for systems and blockchain development.
 
 ---
 
@@ -39,6 +39,7 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 <h2>💻 Languages</h2>
 
 <img src="https://img.shields.io/badge/C++-7B61FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-FFD83D?style=for-the-badge&logo=javascript&logoColor=111111"/>
 <img src="https://img.shields.io/badge/TypeScript-4DA3FF?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -64,6 +65,7 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 <img src="https://img.shields.io/badge/MongoDB-7ED957?style=for-the-badge&logo=mongodb&logoColor=111111"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4D9EFF?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-6C63FF?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 <br><br>
 
@@ -78,12 +80,15 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 
 <br><br>
 
-<h2>⛓️ Web3 — Currently Exploring</h2>
+<h2>⛓️ Web3 — Currently Learning</h2>
 
 <img src="https://img.shields.io/badge/Blockchain-7B61FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-8A6CFF?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solana-7B61FF?style=for-the-badge&logo=solana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-5C5CFF?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Foundry-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hardhat-FFD83D?style=for-the-badge&logoColor=111111"/>
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white"/>
 
 <br><br>
 
@@ -106,7 +111,7 @@ I enjoy working with **Linux, backend systems, cloud infrastructure, modern web 
 
 **React · Next.js · TypeScript · Node.js · Express · PostgreSQL · MongoDB**
 
-Building modern web applications across the frontend and backend.
+Building modern web applications across the frontend and backend, with APIs, databases, and real-time communication.
 
 ### ✅ DevOps
 
@@ -116,11 +121,11 @@ Completed my core DevOps learning phase and built a stronger understanding of de
 
 ### 🚀 Web3
 
-**Blockchain · Ethereum · Solana · Solidity · Smart Contracts**
+**Blockchain · Ethereum · Solana · Solidity · Rust · Smart Contracts**
 
-Just getting started with decentralized systems and blockchain development.
+Currently my main learning focus. I started with the fundamentals, including the **Bitcoin whitepaper**, then moved on to Ethereum wallets and testnets and began writing Solidity smart contracts.
 
-I've begun with the fundamentals, including reading the **Bitcoin whitepaper**, and I'm now moving toward Ethereum, Solana, and smart contracts.
+Now exploring token standards like **ERC-20**, testing contracts with **Hardhat** and **Foundry**, and learning **Rust** as I go deeper into blockchain development.
 
 ---
 
@@ -147,7 +152,7 @@ I've begun with the fundamentals, including reading the **Bitcoin whitepaper**, 
 <br>
 
 I want to combine everything I've learned so far to build
-**reliable, scalable, and well-engineered decentralized applications.**
+**reliable, secure, scalable, and well-engineered decentralized applications.**
 
 </div>
 
