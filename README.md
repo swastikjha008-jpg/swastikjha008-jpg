@@ -80,7 +80,7 @@ Learning **Ethereum, Solidity, and Solana**, writing smart contracts, and explor
 
 <br><br>
 
-<h2>⛓️ Web3 — Currently Learning</h2>
+<h2>⛓️ Web3 </h2>
 
 <img src="https://img.shields.io/badge/Blockchain-7B61FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethereum-8A6CFF?style=for-the-badge&logo=ethereum&logoColor=white"/>
